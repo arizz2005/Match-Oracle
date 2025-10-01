@@ -1,0 +1,1 @@
+Engineered predictive models for Soccer match outcomes using a multi-layer neural network with backpropagation and a custom random forest implementation, applying feature engineering and model evaluation to deliver a robust, data-driven prediction system.
